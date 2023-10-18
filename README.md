@@ -27,4 +27,4 @@ This is Hotel_Management application where I have performed crud operation like 
 * IRoomRepo
   
 ## Project Summary
-In this application we can Create Read Update Delete Hotel Rooms from the different api that are in this application
+In this application we can Create Read Update Delete Hotel Rooms from the different api that are in this application.
